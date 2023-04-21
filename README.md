@@ -4,12 +4,7 @@ This is the base folder for the shopping cart exercise. You will have all the st
 
 ## Getting Started
 
-Clone this repo and run following command for starting the mock server:
-
-```
-npm install
-npm run start
-# or
-yarn install
-yarn start
-```
+1. cd static
+1. npm install
+3. npm run build
+4. npm start
