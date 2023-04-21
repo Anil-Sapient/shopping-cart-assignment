@@ -8,3 +8,4 @@ This is the base folder for the shopping cart exercise. You will have all the st
 1. npm install
 3. npm run build
 4. npm start
+5. Hit 'http://localhost:3000' on the browser
